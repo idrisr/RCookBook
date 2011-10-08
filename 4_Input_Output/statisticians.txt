@@ -1,0 +1,9 @@
+# This is a data file of famous statisticians
+# Last edited on 1994-06-18
+
+lastname firstname born died
+Fisher R.A. 1890 1962
+Pearson Karl 1857 1936
+Cox Gertrude 1900 1978
+Yates Frank 1902 1994
+Smith Kirstine 1878 1939
