@@ -1,4 +1,4 @@
-Notes from the book RCookBook by Paul Teetor
+My (unofficial) notes from the book RCookBook by Paul Teetor
 ========================================
 
 I highly suggest this book for anyone wanting or needing to learn R. This, along
