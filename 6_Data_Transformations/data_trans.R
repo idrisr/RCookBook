@@ -95,7 +95,7 @@ tapply(x, f, fun)
 
 # Define a grouping factor -- that is a factor with one level for every row in
 # your data frame -- that identifies the data groups.
-# For each sub group of rows, they by function puts the rows into a temp data
+# For each sub group of rows, the by function puts the rows into a temp data
 # frame and calls your function with that argument. The by function collects the
 # returned values into a list and returns the list.
 
