@@ -6,6 +6,9 @@ with The Art of R Programming are my recommended texts for learning R. Both can
 be approached as reference texts or as texts to go through entirely to fully
 immerse yourself in the language.
 
+[Author's Website](http://quanttrader.info/public/)
+[On Amazon](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/ref=sr_1_5?ie=UTF8&qid=1333647379&sr=8-5)
+
 [![Cover](http://akamaicovers.oreilly.com/images/9780596809164/lrg.jpg)]
 
 Chapters
@@ -26,8 +29,6 @@ Chapters
 * Ch 13. - Beyond Basic Numerics and Statistics
 * Ch 14. - Time Series Analysis
 
-<!--[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)-->
-
 Motivation
 ------------
 Get a better handle on R, which is a *weird* but powerful language
@@ -35,8 +36,6 @@ Get a better handle on R, which is a *weird* but powerful language
 
 Further Resources
 -------------------
-[The book itself,
-obviously](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/ref=sr_1_5?ie=UTF8&qid=1333647379&sr=8-5)
 
 [The Art of R
 Programming](http://www.amazon.com/The-Art-Programming-Statistical-Software/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1333647426&sr=1-1)
