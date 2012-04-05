@@ -28,6 +28,8 @@ Motivation
 ------------
 Get a better handle on R, which is a *weird* but powerful language
 
+.. image:: http://i.imgur.com/yCybn.png
+
 Further Resources
 -------------------
 [The book itself,
