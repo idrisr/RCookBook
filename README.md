@@ -7,6 +7,7 @@ be approached as reference texts or as texts to go through entirely to fully
 immerse yourself in the language.
 
 [Author's Website](http://quanttrader.info/public/)
+
 [On Amazon](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/ref=sr_1_5?ie=UTF8&qid=1333647379&sr=8-5)
 
 [![Cover](http://akamaicovers.oreilly.com/images/9780596809164/lrg.jpg)]
