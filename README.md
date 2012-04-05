@@ -24,6 +24,8 @@ Chapters
 * Ch 13. - Beyond Basic Numerics and Statistics
 * Ch 14. - Time Series Analysis
 
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
 Motivation
 ------------
 Get a better handle on R, which is a *weird* but powerful language
